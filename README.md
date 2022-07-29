@@ -1,2 +1,2 @@
 # zomato landing page
-this is a basic web development project
+this is a basic web development projects
